@@ -1,4 +1,4 @@
-# CS526 Project: Efficient MapReduce Implementation on a Graph Algorithm -- The Para-clique Use Case
+# CS526 Project: Efficient MapReduce Implementation on a Graph Algorithm
 
 ## Poster
 - Chen_Gu_poster.pdf: The final poster
